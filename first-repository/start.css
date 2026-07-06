@@ -1,0 +1,24 @@
+.nav {
+    background-color: #333;
+    padding: 1px;
+    margin: 2px;
+    border: 1px solid #895454;
+    flex-direction: row;
+
+
+
+}
+
+
+
+
+.list {
+    display: flex;
+    color: beige;
+    text-align: center;
+    padding: 0;
+    gap: 18px;
+    justify-content: space-around;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
